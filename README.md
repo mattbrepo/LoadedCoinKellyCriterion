@@ -58,7 +58,7 @@ I tested all strategies 10,000 times:
 
 ![Strategy Money](/images/strategy_money.jpg)
 
-The red line is set to the initial 25$. Both _Strategy 1_ and _Strategy 2_ are a complete failures since the final amount is more often than not less the initial 25$. However, _Strategy 2_ has by far the highest win recorded:
+The red line is set to the initial $25. Both _Strategy 1_ and _Strategy 2_ are complete failures since the final amount is more often than not less the initial $25. However, _Strategy 2_ has by far the highest win recorded:
 
 ```r
 > data_bp
